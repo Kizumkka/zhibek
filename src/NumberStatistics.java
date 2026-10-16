@@ -28,7 +28,7 @@ public class NumberStatistics {
 
         if (count > 0) {
             double average = (double) sum / count;
-            System.out.println("\n===== СТАТИСТИКА =====");
+            System.out.println("===== СТАТИСТИКА =====");
             System.out.println("Всего чисел: " + count);
             System.out.println("Сумма: " + sum);
             System.out.println("Максимальное: " + max);
